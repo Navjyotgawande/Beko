@@ -1,0 +1,321 @@
+h1,h2,h3,h4,h5,h6, a, button, input{
+    font-family: 'Aclonica', sans-serif;
+}
+body{
+    overflow-x: hidden;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+nav{
+    background-color: red;
+    width: 100%;
+position: fixed;
+top: 0px;
+z-index: 1111;
+}
+body{
+    background: url(../images/background/body_bg.png);
+}
+.hero{
+    background: url(../images/background/banner_bg.png);
+   background-position:right;
+   height:800px;
+}
+.fixed{
+    position: fixed;
+}
+.hero-section{
+    position: relative;
+    top: 321px;
+}
+.live-stream{
+    background: url(../images/background/live_stareams_bg.png);
+    background-size: 100% 100%;
+}
+.war{
+    background: url(../images/background/latest_war_img.png);
+    background-size: 100% 100%;
+    height: 600px;
+}
+.position{
+    position: relative; 
+    top: 200px;
+    color: white;
+}
+.war1{
+    width: 50px;
+    height: 50px;
+}
+
+.war-challenge{
+    background: url(../images/background/latest_war_img_1.png);
+    height: 400px;
+    color: white;
+    
+}
+
+.image-section{
+    background: url(../images/background/event_bg.png);
+    background-size: 100% 100%;
+    height: 400px;
+    color: white ;
+}
+.upcoming{
+    padding-top:75px;
+    
+}
+.upcoming h1{
+    padding-bottom: 183px;
+}
+.package{
+   
+    text-align: center;
+    background: url(../images/background/pricing_bg.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #0b111f;
+}
+.position1{
+    margin-left: -36px;
+    background-image: linear-gradient(to left,#ff0000 0%,#c6019a 51%,#ff0000 100%);
+    padding: 13px 10px;
+    color: white;
+}
+.mail{
+    padding: 9px 0px 10px 0px;
+    border: none;
+    color: #888;
+}
+.copyright{
+    background-color: #0b111f;
+    color: #888;
+}
+.install{
+    background-image: linear-gradient(to left,#ff0000 0%,#c6019a 51%,#ff0000 100%);
+    padding: 16px 36px;
+    border:1px solid transparent;
+    color: white;
+}
+.install:hover{
+    color: white;
+    text-decoration: none;
+}
+.center{
+    position: relative;
+    top: 25%;
+    bottom: 25%;
+    left: 25%;
+    right: 25%;    
+}
+.line-1a{
+    height: 240px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.line-1b{
+    height: 240px;
+    width: 100%;
+    margin-top: 10px;
+}
+.line-2a{
+    height: 300px;
+    width: 100%;
+}
+.line-2b{
+    height: 300px;
+    width: 100%;
+}
+.line-2c{
+    height: 180px;
+    width: 100%;
+    margin-top: 20px;
+}
+.line-3a{
+    height: 340px;
+    width: 100%;
+}
+.line-3b{
+    height: 140px;
+    width: 100%;
+    margin-top: 20px;
+}
+.bold{
+    font-size: 44px;
+    font-weight: 500;
+    line-height: 55px;
+    margin-bottom: 8px;
+
+
+}
+.hero-section p, .content p{
+    font-size: 15px;
+    line-height: 1.8;
+}
+.power{
+    font-weight: 700;
+}
+.dejobo{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.2em;
+}
+.gradient{
+    background-color:linear-gradient(to left,#ff0000 0%,#c6019a 51%,#ff0000 100%);
+    background-clip: text;
+    color: #c6019a;
+}
+.absolute{
+    position: relative;
+    top: 20%;
+}
+.dragon{
+    font-size: 30px;
+    line-height: 1.2em;
+padding-top: 117px;
+
+}
+.days{
+    font-size: 48px;
+    font-weight: 400;
+    font-family: 'Aclonica', sans-serif;
+}
+.remain{
+    font-size: 20px;
+    font-weight:400 ;
+    font-family: 'Aclonica', sans-serif;
+}
+.pricing p{
+    font-weight: 700;
+    font-size: 18px;
+
+}
+.pricing h2{
+    font-weight: 600;
+    font-size: 36px;
+}
+.price-li{
+    font-size: 14px;
+    color: #7f7f7f;
+    border-bottom: 1px dotted;
+    font-family: aclonica,sans-serif;
+    
+}
+.li1{
+    font-size: 14px;
+    color: #7f7f7f;
+    font-family: aclonica,sans-serif;
+}
+.footer-head{
+    font-size: 20px;
+    font-weight: 500
+    
+}
+.footer-p{
+    color: #bebebe;
+    font-size: 15px;
+}
+.mail{
+    padding: 8px 43px 8px 10px;
+    background-color: white;
+}
+.plane{
+    padding: 9px 10px;
+    background-image:linear-gradient(to left,#ff0000 0%,#c6019a 51%,#ff0000 100%);
+    border: none;
+    margin-left: -10px;
+    color: white;
+}
+.about-us{
+    padding-top: 140px;
+    padding-bottom: 200px;
+}
+.content {
+    padding: 0% 2% 0% 6%;
+}
+.about-us p{
+    line-height: 36px;
+    margin-bottom: 57px;
+}
+.btn-1{
+    display: inline-block;
+    padding: 18.5px 20px;
+    border-radius: 0;
+    font-size: 15px;
+    font-weight: 500;
+   
+    background-image: linear-gradient(to left,#ff0000 0%,#c6019a 51%,#ff0000 100%);
+    color: white;
+    border: 1px soli transparent;
+}
+.btn-1:hover{
+color: white;
+text-decoration: none;
+}
+.live{
+    margin-bottom: 35px;
+    padding-top: 100px;
+    padding-left: 85px;
+} 
+.mar-top{
+    margin-top: 60px;
+}
+.challenge{
+    padding-bottom: 125px;
+}
+.margin-top{
+    padding-top: 20px;
+}
+.pricing{
+    padding-top: 136px;
+    padding-bottom: 120px;
+}
+.pricing h1{
+    padding-bottom: 55px;
+}
+.plan{
+    border-radius: 0px;
+}
+.footer{
+    padding-bottom: 85px;
+}
+.copyright{
+    padding:35px 0px;
+}
+.red:hover{
+    color: red;
+}
+.mail:hover{
+    color:#888;
+    text-decoration: none;
+}
+.plane:hover{
+    color: white;
+}
+.hover:hover{
+    text-decoration: none;
+    
+}
+.item{
+    height: 400px;
+}
+@media (max-width:991px){
+    #linkss{
+        position:fixed;
+        width: 100%;
+        height:316px;
+        background-color: black;
+        top: 106px;
+        right:0px;
+        display: none;
+        text-align:left;
+        transition: all 0.5s;
+        z-index: 1;
+    }
+    .show li{
+        margin-top: 20px;
+    }
+
+    
+    }
+    
